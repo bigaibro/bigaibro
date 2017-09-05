@@ -1,4 +1,3 @@
 <?php
     phpInfo();
-    // github test
 ?>
