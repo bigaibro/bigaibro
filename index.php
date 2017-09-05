@@ -1,4 +1,14 @@
-<?php
-    echo "Hello World!";
-    echo "Hi";
-?>
+<!DOCTYPE html>
+<html>
+    <head>
+    
+    <title>Test</title>
+    
+    </head>
+
+    <body>
+        <?php
+            phpInfo();
+        ?>
+    </body>
+</html>
